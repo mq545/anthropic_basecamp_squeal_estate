@@ -1,0 +1,575 @@
+{
+  "metric": "squirrel_charm_score",
+  "unit": "0-10",
+  "source": "2018 Central Park Squirrel Census",
+  "coverage_note": "All sightings are inside Central Park, so only park-adjacent ZIPs are scored; other Manhattan ZIPs are marked no_data.",
+  "weights": {
+    "abundance": 0.4,
+    "friendliness": 0.3,
+    "playfulness": 0.2,
+    "rarity": 0.1
+  },
+  "data": [
+    {
+      "zip_code": "10001",
+      "score": 0,
+      "sub_scores": {
+        "abundance": 0,
+        "friendliness": 0,
+        "playfulness": 0,
+        "rarity": 0
+      },
+      "sightings": 0,
+      "no_data": true,
+      "rationale": "No squirrel census data (outside Central Park)."
+    },
+    {
+      "zip_code": "10002",
+      "score": 0,
+      "sub_scores": {
+        "abundance": 0,
+        "friendliness": 0,
+        "playfulness": 0,
+        "rarity": 0
+      },
+      "sightings": 0,
+      "no_data": true,
+      "rationale": "No squirrel census data (outside Central Park)."
+    },
+    {
+      "zip_code": "10003",
+      "score": 0,
+      "sub_scores": {
+        "abundance": 0,
+        "friendliness": 0,
+        "playfulness": 0,
+        "rarity": 0
+      },
+      "sightings": 0,
+      "no_data": true,
+      "rationale": "No squirrel census data (outside Central Park)."
+    },
+    {
+      "zip_code": "10004",
+      "score": 0,
+      "sub_scores": {
+        "abundance": 0,
+        "friendliness": 0,
+        "playfulness": 0,
+        "rarity": 0
+      },
+      "sightings": 0,
+      "no_data": true,
+      "rationale": "No squirrel census data (outside Central Park)."
+    },
+    {
+      "zip_code": "10005",
+      "score": 0,
+      "sub_scores": {
+        "abundance": 0,
+        "friendliness": 0,
+        "playfulness": 0,
+        "rarity": 0
+      },
+      "sightings": 0,
+      "no_data": true,
+      "rationale": "No squirrel census data (outside Central Park)."
+    },
+    {
+      "zip_code": "10006",
+      "score": 0,
+      "sub_scores": {
+        "abundance": 0,
+        "friendliness": 0,
+        "playfulness": 0,
+        "rarity": 0
+      },
+      "sightings": 0,
+      "no_data": true,
+      "rationale": "No squirrel census data (outside Central Park)."
+    },
+    {
+      "zip_code": "10007",
+      "score": 0,
+      "sub_scores": {
+        "abundance": 0,
+        "friendliness": 0,
+        "playfulness": 0,
+        "rarity": 0
+      },
+      "sightings": 0,
+      "no_data": true,
+      "rationale": "No squirrel census data (outside Central Park)."
+    },
+    {
+      "zip_code": "10009",
+      "score": 0,
+      "sub_scores": {
+        "abundance": 0,
+        "friendliness": 0,
+        "playfulness": 0,
+        "rarity": 0
+      },
+      "sightings": 0,
+      "no_data": true,
+      "rationale": "No squirrel census data (outside Central Park)."
+    },
+    {
+      "zip_code": "10010",
+      "score": 0,
+      "sub_scores": {
+        "abundance": 0,
+        "friendliness": 0,
+        "playfulness": 0,
+        "rarity": 0
+      },
+      "sightings": 0,
+      "no_data": true,
+      "rationale": "No squirrel census data (outside Central Park)."
+    },
+    {
+      "zip_code": "10011",
+      "score": 0,
+      "sub_scores": {
+        "abundance": 0,
+        "friendliness": 0,
+        "playfulness": 0,
+        "rarity": 0
+      },
+      "sightings": 0,
+      "no_data": true,
+      "rationale": "No squirrel census data (outside Central Park)."
+    },
+    {
+      "zip_code": "10012",
+      "score": 0,
+      "sub_scores": {
+        "abundance": 0,
+        "friendliness": 0,
+        "playfulness": 0,
+        "rarity": 0
+      },
+      "sightings": 0,
+      "no_data": true,
+      "rationale": "No squirrel census data (outside Central Park)."
+    },
+    {
+      "zip_code": "10013",
+      "score": 0,
+      "sub_scores": {
+        "abundance": 0,
+        "friendliness": 0,
+        "playfulness": 0,
+        "rarity": 0
+      },
+      "sightings": 0,
+      "no_data": true,
+      "rationale": "No squirrel census data (outside Central Park)."
+    },
+    {
+      "zip_code": "10014",
+      "score": 0,
+      "sub_scores": {
+        "abundance": 0,
+        "friendliness": 0,
+        "playfulness": 0,
+        "rarity": 0
+      },
+      "sightings": 0,
+      "no_data": true,
+      "rationale": "No squirrel census data (outside Central Park)."
+    },
+    {
+      "zip_code": "10016",
+      "score": 0,
+      "sub_scores": {
+        "abundance": 0,
+        "friendliness": 0,
+        "playfulness": 0,
+        "rarity": 0
+      },
+      "sightings": 0,
+      "no_data": true,
+      "rationale": "No squirrel census data (outside Central Park)."
+    },
+    {
+      "zip_code": "10017",
+      "score": 0,
+      "sub_scores": {
+        "abundance": 0,
+        "friendliness": 0,
+        "playfulness": 0,
+        "rarity": 0
+      },
+      "sightings": 0,
+      "no_data": true,
+      "rationale": "No squirrel census data (outside Central Park)."
+    },
+    {
+      "zip_code": "10018",
+      "score": 0,
+      "sub_scores": {
+        "abundance": 0,
+        "friendliness": 0,
+        "playfulness": 0,
+        "rarity": 0
+      },
+      "sightings": 0,
+      "no_data": true,
+      "rationale": "No squirrel census data (outside Central Park)."
+    },
+    {
+      "zip_code": "10019",
+      "score": 6,
+      "sub_scores": {
+        "abundance": 6,
+        "friendliness": 10,
+        "playfulness": 2,
+        "rarity": 3
+      },
+      "sightings": 307,
+      "rationale": "6/10 \u2014 moderate squirrel abundance, exceptional friendliness (approaches vs. flees), low play activity, and 5 rare black-squirrel sightings."
+    },
+    {
+      "zip_code": "10021",
+      "score": 5,
+      "sub_scores": {
+        "abundance": 5,
+        "friendliness": 6,
+        "playfulness": 3,
+        "rarity": 4
+      },
+      "sightings": 252,
+      "rationale": "5/10 \u2014 moderate squirrel abundance, moderate friendliness (approaches vs. flees), modest play activity, and 6 rare black-squirrel sightings."
+    },
+    {
+      "zip_code": "10022",
+      "score": 0,
+      "sub_scores": {
+        "abundance": 0,
+        "friendliness": 0,
+        "playfulness": 0,
+        "rarity": 0
+      },
+      "sightings": 0,
+      "no_data": true,
+      "rationale": "No squirrel census data (outside Central Park)."
+    },
+    {
+      "zip_code": "10023",
+      "score": 8,
+      "sub_scores": {
+        "abundance": 10,
+        "friendliness": 8,
+        "playfulness": 6,
+        "rarity": 2
+      },
+      "sightings": 502,
+      "rationale": "8/10 \u2014 exceptional squirrel abundance, high friendliness (approaches vs. flees), moderate play activity, and 7 rare black-squirrel sightings."
+    },
+    {
+      "zip_code": "10024",
+      "score": 6,
+      "sub_scores": {
+        "abundance": 8,
+        "friendliness": 7,
+        "playfulness": 3,
+        "rarity": 3
+      },
+      "sightings": 383,
+      "rationale": "6/10 \u2014 high squirrel abundance, high friendliness (approaches vs. flees), modest play activity, and 7 rare black-squirrel sightings."
+    },
+    {
+      "zip_code": "10025",
+      "score": 6,
+      "sub_scores": {
+        "abundance": 10,
+        "friendliness": 1,
+        "playfulness": 4,
+        "rarity": 9
+      },
+      "sightings": 498,
+      "rationale": "6/10 \u2014 exceptional squirrel abundance, low friendliness (approaches vs. flees), modest play activity, and 39 rare black-squirrel sightings."
+    },
+    {
+      "zip_code": "10026",
+      "score": 4,
+      "sub_scores": {
+        "abundance": 3,
+        "friendliness": 3,
+        "playfulness": 6,
+        "rarity": 3
+      },
+      "sightings": 190,
+      "rationale": "4/10 \u2014 modest squirrel abundance, modest friendliness (approaches vs. flees), moderate play activity, and 4 rare black-squirrel sightings."
+    },
+    {
+      "zip_code": "10027",
+      "score": 0,
+      "sub_scores": {
+        "abundance": 0,
+        "friendliness": 0,
+        "playfulness": 0,
+        "rarity": 0
+      },
+      "sightings": 0,
+      "no_data": true,
+      "rationale": "No squirrel census data (outside Central Park)."
+    },
+    {
+      "zip_code": "10028",
+      "score": 4,
+      "sub_scores": {
+        "abundance": 2,
+        "friendliness": 6,
+        "playfulness": 6,
+        "rarity": 1
+      },
+      "sightings": 120,
+      "rationale": "4/10 \u2014 low squirrel abundance, moderate friendliness (approaches vs. flees), moderate play activity, and no rare black squirrels recorded."
+    },
+    {
+      "zip_code": "10029",
+      "score": 4,
+      "sub_scores": {
+        "abundance": 5,
+        "friendliness": 4,
+        "playfulness": 3,
+        "rarity": 5
+      },
+      "sightings": 282,
+      "rationale": "4/10 \u2014 moderate squirrel abundance, modest friendliness (approaches vs. flees), modest play activity, and 11 rare black-squirrel sightings."
+    },
+    {
+      "zip_code": "10030",
+      "score": 0,
+      "sub_scores": {
+        "abundance": 0,
+        "friendliness": 0,
+        "playfulness": 0,
+        "rarity": 0
+      },
+      "sightings": 0,
+      "no_data": true,
+      "rationale": "No squirrel census data (outside Central Park)."
+    },
+    {
+      "zip_code": "10031",
+      "score": 0,
+      "sub_scores": {
+        "abundance": 0,
+        "friendliness": 0,
+        "playfulness": 0,
+        "rarity": 0
+      },
+      "sightings": 0,
+      "no_data": true,
+      "rationale": "No squirrel census data (outside Central Park)."
+    },
+    {
+      "zip_code": "10032",
+      "score": 0,
+      "sub_scores": {
+        "abundance": 0,
+        "friendliness": 0,
+        "playfulness": 0,
+        "rarity": 0
+      },
+      "sightings": 0,
+      "no_data": true,
+      "rationale": "No squirrel census data (outside Central Park)."
+    },
+    {
+      "zip_code": "10033",
+      "score": 0,
+      "sub_scores": {
+        "abundance": 0,
+        "friendliness": 0,
+        "playfulness": 0,
+        "rarity": 0
+      },
+      "sightings": 0,
+      "no_data": true,
+      "rationale": "No squirrel census data (outside Central Park)."
+    },
+    {
+      "zip_code": "10034",
+      "score": 0,
+      "sub_scores": {
+        "abundance": 0,
+        "friendliness": 0,
+        "playfulness": 0,
+        "rarity": 0
+      },
+      "sightings": 0,
+      "no_data": true,
+      "rationale": "No squirrel census data (outside Central Park)."
+    },
+    {
+      "zip_code": "10035",
+      "score": 0,
+      "sub_scores": {
+        "abundance": 0,
+        "friendliness": 0,
+        "playfulness": 0,
+        "rarity": 0
+      },
+      "sightings": 0,
+      "no_data": true,
+      "rationale": "No squirrel census data (outside Central Park)."
+    },
+    {
+      "zip_code": "10036",
+      "score": 0,
+      "sub_scores": {
+        "abundance": 0,
+        "friendliness": 0,
+        "playfulness": 0,
+        "rarity": 0
+      },
+      "sightings": 0,
+      "no_data": true,
+      "rationale": "No squirrel census data (outside Central Park)."
+    },
+    {
+      "zip_code": "10037",
+      "score": 0,
+      "sub_scores": {
+        "abundance": 0,
+        "friendliness": 0,
+        "playfulness": 0,
+        "rarity": 0
+      },
+      "sightings": 0,
+      "no_data": true,
+      "rationale": "No squirrel census data (outside Central Park)."
+    },
+    {
+      "zip_code": "10038",
+      "score": 0,
+      "sub_scores": {
+        "abundance": 0,
+        "friendliness": 0,
+        "playfulness": 0,
+        "rarity": 0
+      },
+      "sightings": 0,
+      "no_data": true,
+      "rationale": "No squirrel census data (outside Central Park)."
+    },
+    {
+      "zip_code": "10039",
+      "score": 0,
+      "sub_scores": {
+        "abundance": 0,
+        "friendliness": 0,
+        "playfulness": 0,
+        "rarity": 0
+      },
+      "sightings": 0,
+      "no_data": true,
+      "rationale": "No squirrel census data (outside Central Park)."
+    },
+    {
+      "zip_code": "10040",
+      "score": 0,
+      "sub_scores": {
+        "abundance": 0,
+        "friendliness": 0,
+        "playfulness": 0,
+        "rarity": 0
+      },
+      "sightings": 0,
+      "no_data": true,
+      "rationale": "No squirrel census data (outside Central Park)."
+    },
+    {
+      "zip_code": "10044",
+      "score": 0,
+      "sub_scores": {
+        "abundance": 0,
+        "friendliness": 0,
+        "playfulness": 0,
+        "rarity": 0
+      },
+      "sightings": 0,
+      "no_data": true,
+      "rationale": "No squirrel census data (outside Central Park)."
+    },
+    {
+      "zip_code": "10065",
+      "score": 6,
+      "sub_scores": {
+        "abundance": 5,
+        "friendliness": 9,
+        "playfulness": 1,
+        "rarity": 10
+      },
+      "sightings": 282,
+      "rationale": "6/10 \u2014 moderate squirrel abundance, exceptional friendliness (approaches vs. flees), low play activity, and 24 rare black-squirrel sightings."
+    },
+    {
+      "zip_code": "10069",
+      "score": 0,
+      "sub_scores": {
+        "abundance": 0,
+        "friendliness": 0,
+        "playfulness": 0,
+        "rarity": 0
+      },
+      "sightings": 0,
+      "no_data": true,
+      "rationale": "No squirrel census data (outside Central Park)."
+    },
+    {
+      "zip_code": "10075",
+      "score": 5,
+      "sub_scores": {
+        "abundance": 2,
+        "friendliness": 5,
+        "playfulness": 10,
+        "rarity": 1
+      },
+      "sightings": 135,
+      "rationale": "5/10 \u2014 low squirrel abundance, moderate friendliness (approaches vs. flees), exceptional play activity, and no rare black squirrels recorded."
+    },
+    {
+      "zip_code": "10128",
+      "score": 2,
+      "sub_scores": {
+        "abundance": 1,
+        "friendliness": 2,
+        "playfulness": 5,
+        "rarity": 1
+      },
+      "sightings": 72,
+      "rationale": "2/10 \u2014 low squirrel abundance, low friendliness (approaches vs. flees), moderate play activity, and no rare black squirrels recorded."
+    },
+    {
+      "zip_code": "10280",
+      "score": 0,
+      "sub_scores": {
+        "abundance": 0,
+        "friendliness": 0,
+        "playfulness": 0,
+        "rarity": 0
+      },
+      "sightings": 0,
+      "no_data": true,
+      "rationale": "No squirrel census data (outside Central Park)."
+    },
+    {
+      "zip_code": "10282",
+      "score": 0,
+      "sub_scores": {
+        "abundance": 0,
+        "friendliness": 0,
+        "playfulness": 0,
+        "rarity": 0
+      },
+      "sightings": 0,
+      "no_data": true,
+      "rationale": "No squirrel census data (outside Central Park)."
+    }
+  ]
+}
