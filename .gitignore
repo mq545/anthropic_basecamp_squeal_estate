@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+# swarm state dotfiles
+.environment_id
+.specialist_ids.json
+.skill_ids.json
+.coordinator_id
+.last_session_id
